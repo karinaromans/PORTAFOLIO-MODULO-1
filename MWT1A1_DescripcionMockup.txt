@@ -1,0 +1,26 @@
+¿Con qué elementos cuenta mi página web? MENU, TITULO, ENLACES, BARRA DE BUSQUEDA, BOTONES DE CERRAR, MAXIMIZAR Y MINIMIZAR
+● ¿Cuál es la utilidad de cada elemento -título, subtítulos, menú, párrafos, listas, ligas, ligas
+a correo, imágenes,
+espaciadores, y otros? PERMITE AL USUARIO NAVEGAR FACILMENTE EN LA PAGINA WEB
+● ¿En qué lugar de la página se encuentra cada elemento? EN LA PARTE SUPERIOR, EN EL CUERPO Y EN EL PIE DE LA PAGINA
+● ¿De qué trata mi página? ACERCA DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS 
+● ¿El objetivo de mi página responde de manera afirmativa a una de las “Preguntas para
+que mi proyecto tenga Perspectiva de Género” del Manual para incorporar la Perspectiva de
+Género en el programa de estudios para la Escuela de Código en la CDMX?
+○ Las líneas generales son:
+■ ¿Mi propuesta tiene la intención de mejorar las condiciones de vida de las mujeres y niñas
+de algún colectivo? SI
+■ ¿Mi propuesta está encaminada en retomar alguna problemática que afecta de manera
+directa a las mujeres y niñas de algún colectivo? SI
+■ ¿Mi propuesta toma como eje la vida de mujeres y niñas de algún colectivo? SI
+■ ¿Mi propuesta está encaminada en favorecer alguna situación donde mujeres y niñas de
+algún colectivo se encuentren en desventaja? SI
+■ ¿Mi aporte busca contribuir en la transformación de modelos sociales y culturales que
+estereotipan el hacer y quehacer de las mujeres o niñas? SI
+■ ¿Mi propuesta busca prevenir o dar atención a una problemática de violencia contra
+mujeres o niñas? SI
+■ ¿Mi propuesta propone visibilizar la participación de las mujeres en un campo donde son
+poco visibles? SI
+■ ¿Mi propuesta propone informar sobre derechos humanos de las mujeres? SI 
+● ¿Cómo se llama mi página? DERECHOS SEXUALES Y REPRODUCTIVOS
+● ¿Por qué elegí esa temática? PORQUE CONSIDERO QUE NO TODOS LOS MEXICANOS CONOCEMOS NUESTROS DERECHOS Y REPRODUCTIVOS.
